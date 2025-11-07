@@ -1,4 +1,4 @@
-# Cognitive Resort Planner
+# AI Travel Planner
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![ADK](https://img.shields.io/badge/ADK-Google-orange)
