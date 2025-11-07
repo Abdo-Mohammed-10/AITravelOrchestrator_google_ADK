@@ -51,7 +51,7 @@ The project is built using a multi-agent architecture, with a root agent that de
 To start the planner, run the following command:
 
 ```bash
-python agent.py
+python agent.py or adk web 
 ```
 
 You will then be prompted to enter your vacation details. For example:
